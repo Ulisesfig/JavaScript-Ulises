@@ -82,7 +82,7 @@ filtroPrecio.addEventListener("input", () => {
 
 // Cargo los productos desde el JSON
 function cargarProductos() {
-  fetch("./productos.json")
+  fetch("productos.json")
     .then(res => res.json())
     .then(data => {
       productos = data;
@@ -103,7 +103,7 @@ function mostrarProductos() {
       div.className = "col-6 col-md-3";
       div.innerHTML = `
         <div class="card h-100">
-          <img src="./content/${p.id}.jpg" class="card-img-top" alt="${p.nombre}">
+          <img src="content/${p.id}.jpg" class="card-img-top" alt="${p.nombre}">
           <div class="card-body">
             <h6 class="card-title">${p.nombre}</h6>
             <p>$${p.precio}</p>
