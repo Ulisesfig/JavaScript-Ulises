@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nombre": "Top Negro (Microfibra)", "precio": 6000 },
+  { "id": 2, "nombre": "Top Blanco", "precio": 6000 },
+  { "id": 3, "nombre": "Top Bordo", "precio": 5500 },
+  { "id": 4, "nombre": "Top Irregular Bordo", "precio": 5500 },
+  { "id": 5, "nombre": "Top Manga Larga Blanco", "precio": 7000 },
+  { "id": 6, "nombre": "Top Cruzado Negro", "precio": 5000 },
+  { "id": 7, "nombre": "Top Cuello en V", "precio": 5500 },
+  { "id": 8, "nombre": "Musculosa Bordo", "precio": 4500 },
+  { "id": 9, "nombre": "Strap Negro", "precio": 5000 },
+  { "id": 10, "nombre": "Vestido Blanco", "precio": 7500 },
+  { "id": 11, "nombre": "Top Beige", "precio": 5000 },
+  { "id": 12, "nombre": "Musculosa Negra", "precio": 4000 }
+]
